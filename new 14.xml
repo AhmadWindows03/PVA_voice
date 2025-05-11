@@ -1,0 +1,6 @@
+<Response>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<Say voice="man">Hey Ahmad, you're github test script worked.</Say>
+<Pause length="1"/>
+<Say voice="woman">Let us know if we can help you in any way during your development.</Say>
+</Response>
